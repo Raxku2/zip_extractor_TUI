@@ -153,7 +153,7 @@ pyzipper
 
 ## 🧑‍💻 Author
 
-**Developed by:** [Your Name](https://github.com/yourusername)
+**Developed by:** [Your Name](https://github.com/raxku2)
 💬 *“A small utility to simplify encrypted ZIP extraction in style.”*
 
 ---
