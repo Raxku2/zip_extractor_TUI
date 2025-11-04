@@ -153,7 +153,7 @@ pyzipper
 
 ## 🧑‍💻 Author
 
-**Developed by:** [Your Name](https://github.com/raxku2)
+**Developed by:** [Pinaka](https://github.com/raxku2)
 💬 *“A small utility to simplify encrypted ZIP extraction in style.”*
 
 ---
@@ -162,6 +162,3 @@ pyzipper
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for more information.
-
-Would you like me to include a **banner image (preview screenshot)** or **project logo (terminal style)** at the top? I can generate one for your README.
-```
